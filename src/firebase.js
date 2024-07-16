@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBoq-7WvXWAFOSRmFEqlYgBwtvUFjVeW6o",
+    apiKey: "Google_API_Key",
     authDomain: "cupboard-official.firebaseapp.com",
       /*   databaseURL: "YOUR_DATABASE_URL", */
     projectId: "cupboard-official",
