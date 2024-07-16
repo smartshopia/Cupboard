@@ -1,0 +1,35 @@
+{
+  "name": "cupboard",
+  "version": "1.0.0",
+  "description": "Manage your business with ease!",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "Fida",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.12.3",
+    "firebase-admin": "^12.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router": "^6.24.1",
+    "react-router-dom": "^6.24.1",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
